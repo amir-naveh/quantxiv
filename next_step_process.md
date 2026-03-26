@@ -21,6 +21,8 @@ Determine the single most valuable, granular next action to advance the goal. Cr
 - It must build directly on what was previously done
 - Prefer foundational work early (infra, data model, core flows) over polish
 
+> **The next step is not limited to coding.** Think from a CEO perspective: any action that advances the project is valid — infrastructure setup, deployment, domain configuration, third-party integrations, content, legal, community, or anything else. If a step requires input or action from the human (e.g. credentials, account access, approvals), clearly state what is needed and why.
+
 ## Step 4 — Write `next_step.md`
 Overwrite `next_step.md` with the chosen next step. Format:
 
