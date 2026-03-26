@@ -43,7 +43,7 @@ Carry out the task described in `next_step.md`. Write code, create files, config
 Append a new entry to `log.md` (create it if it doesn't exist). Format:
 
 ```
-## [Short title] — YYYY-MM-DD
+## [Short title] — YYYY-MM-DD, HH-MM
 - What was done
 - Any decisions made and why
 - Anything left incomplete or deferred
