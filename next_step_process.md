@@ -4,6 +4,7 @@ This file defines the repeating cycle for advancing the quantxiv project.
 Follow these steps in order, every development session.
 
 > **All code written during this process must comply with `coding_guidelines.md`. Read it before executing any step.**
+> **Also read `hints.md` for project-specific context and decisions before planning the next step.**
 
 ---
 
